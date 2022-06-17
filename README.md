@@ -1,6 +1,9 @@
 # sciter-sdk
 Sciter is an embeddable HTML/CSS/scripting engine, Windows, Mac OSX and Linux.
 
+## git@github.com:sramos30/sciter-sdk.git
+## https://github.com/c-smile/sciter-sdk
+
 # log file
 [logfile.htm](https://rawgit.com/c-smile/sciter-sdk/master/logfile.htm)
 
